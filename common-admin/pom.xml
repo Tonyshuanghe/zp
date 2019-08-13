@@ -59,6 +59,7 @@
             <groupId>com.common</groupId>
             <artifactId>common-generator</artifactId>
         </dependency>
+        
     </dependencies>
 
     <build>
